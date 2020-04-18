@@ -110,6 +110,12 @@ margin-right: 50px;
   font-weight: bold;
 }
 
+@media (max-width:670px;) {
+  .box2 p {
+    font-size: 20px;
+  }
+}
+
 .box3 {
   margin-top: 50px;
 }
