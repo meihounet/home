@@ -96,14 +96,12 @@ margin-right: 50px;
 
 .box2-2 {
   float: left;
-  padding-left: 5%;
-  padding-right: 5%;
-  width: 50%;
+  width: 60%;
   background-color: white;
 }
 
 .box2-2 p {
-  font-size: 25px;
+  font-size: 30px;
   line-height: 140px;
   text-align: center;
   font-family:serif;
