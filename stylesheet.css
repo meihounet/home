@@ -102,8 +102,9 @@ margin-right: 50px;
 }
 
 .box2-2 p {
+  margin-top:70px;
   font-size: 25px;
-  line-height: 140px;
+  line-height: 120px;
   text-align: center;
   font-family:serif;
   font-weight: bold;
