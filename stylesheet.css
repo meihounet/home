@@ -103,16 +103,12 @@ margin-right: 50px;
 
 .box2-2 p {
   padding-top:50px;
-  padding-bottom:70px;
+  padding-bottom:30px;
   font-size: 25px;
   line-height: 120px;
   text-align: center;
   font-family:serif;
   font-weight: bold;
-}
-
-.box3 {
-  margin-top: 30px;
 }
 
 .box3:after {
