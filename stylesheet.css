@@ -135,12 +135,17 @@ margin-right: 50px;
 }
 
 .box2-2 p {
-  padding-top:100px;
+  padding-top:80px;
   font-size: 25px;
   line-height: 120px;
   text-align: center;
   font-family:serif;
   font-weight: bold;
+}
+
+.box3 {
+  margin-top:50px;
+  margin-botttom:50px;
 }
 
 .box3:after {
