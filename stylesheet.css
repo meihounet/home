@@ -87,7 +87,7 @@ margin-right: 50px;
 
 .box2-1 {
   float: left;
-  width: 40%;
+  width: 30%;
 }
 
 .box2-1 img {
@@ -96,6 +96,8 @@ margin-right: 50px;
 
 .box2-2 {
   float: left;
+  margin-left: 5%;
+  margin-right: 5%;
   width: 60%;
   background-color: white;
 }
