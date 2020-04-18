@@ -135,9 +135,9 @@ margin-right: 50px;
 }
 
 .box2-2 p {
-  padding-top:80px;
+  margin:90px auto;
   font-size: 25px;
-  line-height: 120px;
+  line-height: 130px;
   text-align: center;
   font-family:serif;
   font-weight: bold;
