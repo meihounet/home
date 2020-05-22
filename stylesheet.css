@@ -79,6 +79,10 @@ margin-right: 50px;
   font-weight: bold;
 }
 
+.box2 {
+  display: flex;
+}
+
 .box2:after {
   content: "";
   display: block;
@@ -140,15 +144,21 @@ margin-right: 50px;
 .box2-2 {
   float: left;
   width: 50%;
+  position: relative;
 }
 
 .box2-2 p {
-  padding: auto 0;
-  font-size: 20px;
-  line-height: 100px;
+  font-size: 19px;
+  line-height: 80px;
   text-align: center;
   font-family:serif;
   font-weight: bold;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .box3 {
