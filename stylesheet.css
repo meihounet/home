@@ -239,19 +239,26 @@ margin-right: 50px;
   text-align: left;
 }
 
-.box4-3 a {
-  color: white;
-  background-color: darkred;
-  padding: 7px 70px;
-  text-align: center;
-  float: left;
-}
-
 .box4-3 a:hover {
   opacity: 0.8;
 }
 
+.otoiawase {
+  color: white;
+  background-color: darkred;
+  padding: 7px 50px;
+  text-align: center;
+  float: left;
+}
 
+.twitter {
+  color: white;
+  background-color: #55acee;
+  text-align: center;
+  float: left;
+  margin-left: 20px;
+  padding: 7px 15px;
+}
 
 footer {
   border-top: 2px solid #eee;
