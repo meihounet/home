@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 li {
   list-style: none;
 }
@@ -64,7 +62,7 @@ margin-right: 50px;
 }
 
 .box1 {
-  background-image: url(S__6692890.jpg);
+  background-image: url(S__6873100.jpg);
   background-size: cover;
   width: 100%;
   height: 550px;
@@ -73,7 +71,7 @@ margin-right: 50px;
 .box1 p {
   color: white;
   font-size: 35px;
-  padding-top: 280px;
+  padding-top: 240px;
   padding-left: 100px;
   font-family:serif;
   font-weight: bold;
